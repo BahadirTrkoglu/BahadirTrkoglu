@@ -15,3 +15,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bahadirtrkoglu&show_icons=true&locale=en" alt="bahadirtrkoglu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahadirtrkoglu&" alt="bahadirtrkoglu" 
+
+
+![snake gif](https://github.com/BahadirTrkoglu/BahadirTrkoglu/blob/output/github-contribution-grid-snake.gif)
