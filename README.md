@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.york.ac.uk%2Fstudy%2Fundergraduate%2Fcourses%2Fmeng-electronic-engineering%2F&psig=AOvVaw0O7DLa1R9YmQpNIiLJiFq8&ust=1720891463980000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDn97uCoocDFQAAAAAdAAAAABAE)
+[![MasterHead](https://img.ekonomim.com/storage/files/images/2021/08/03/cip-krizi-L6IR_cover.jpg)
 <h1 align="center">Hi 👋, I'm Bahadır</h1>
 <h3 align="center">I am electrical and electronics engineering student</h3>
 
