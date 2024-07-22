@@ -1,4 +1,4 @@
-[![MasterHead](https://img.ekonomim.com/storage/files/images/2021/08/03/cip-krizi-L6IR_cover.jpg)
+[![MasterHead]()
 <h1 align="center">Hi 👋, I'm Bahadır</h1>
 <h3 align="center">I am electrical and electronics engineering student</h3>
 
