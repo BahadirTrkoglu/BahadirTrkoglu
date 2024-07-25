@@ -1,4 +1,4 @@
-[![MasterHead]()
+
 <h1 align="center">Hi 👋, I'm Bahadır</h1>
 <h3 align="center">I am electrical and electronics engineering student</h3>
 
